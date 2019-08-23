@@ -1,0 +1,26 @@
+{
+  "name": "allex_sessionsauthenticationstrategylib",
+  "version": "1.0.0",
+  "description": "AllexJS Authentication Strategy based on Sessions DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:allex-libs/sessionsauthenticationstrategy.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "sessions",
+    "authentication",
+    "strategy",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/sessionsauthenticationstrategy/issues"
+  },
+  "homepage": "https://github.com/allex-libs/sessionsauthenticationstrategy#readme"
+}
